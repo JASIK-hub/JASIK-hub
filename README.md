@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Zhasulan!
 
-<!--
-**JASIK-hub/JASIK-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a web developer from Kazakhstan passionate about building modern and responsive web applications.  
+Currently learning React and working on personal projects.
 
-Here are some ideas to get you started:
+## 🔧 Technologies I use:
+- 🌐 HTML, CSS, SCSS, JavaScript
+- ⚛️ React, React Router,Hooks
+- 🍃 Node.js,Npm,build tool Vite,ESlint
+- 📡 REST API, JSON
+- 💾 Git, GitHub
+- 🎨 Figma, Adobe Photoshop,Illustrator
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Current projects:
+- 🎬 **Movie App** — React app using TMDB API
+- 💬 **Real-time Chat** — Websocket + Node.js
+- 🥗 **Food Calorie Calculator** — Nutrition API + frontend
+
+## 🏆 Achievements:
+- 🎖️ Participant of **WorldSkills Kazakhstan 2024** (Web Technologies)
+- 🎯 Created a responsive portfolio website
+
+## 📫 Contact me:
+- Email: zhasik7002@gmail.com
+- LinkedIn:[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/zhasulan-abdybay-1ba352362/)
