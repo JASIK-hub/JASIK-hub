@@ -22,4 +22,4 @@ Currently learning React and working on personal projects.
 
 ## 📫 Contact me:
 - Email: zhasik7002@gmail.com
-- LinkedIn:[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/zhasulan-abdybay-1ba352362/)
+- LinkedIn:   [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/zhasulan-abdybay-1ba352362/)
