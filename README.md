@@ -1,24 +1,21 @@
 # 👋 Hi, I'm Zhasulan!
 
-I'm a web developer from Kazakhstan passionate about building modern and responsive web applications.  
-Currently learning React and working on personal projects.
+I'm a backend developer.  
+Currently learning NestJS and working on projects .
 
-## 🔧 Technologies I use:
+## 🔧 Technologies I use: 
+- 🍃 NestJs, Docker.
+
+## 🔧 Technologies and tools I know: 
+- 🍃 NestJs, Node.js, Docker.
+- ⚛️ React
 - 🌐 HTML, CSS, SCSS, JavaScript
-- ⚛️ React, React Router,Hooks
-- 🍃 Node.js,Npm,build tool Vite,ESlint
 - 📡 REST API, JSON
-- 💾 Git, GitHub
+- 💾 Git, Git flow
 - 🎨 Figma, Adobe Photoshop,Illustrator
-
-## 📈 Current projects:
-- 🎬 **Movie App** — React app using TMDB API
-- 💬 **Real-time Chat** — Websocket + Node.js
-- 🥗 **Food Calorie Calculator** — Nutrition API + frontend
 
 ## 🏆 Achievements:
 - 🎖️ Participant of **WorldSkills Kazakhstan 2024** (Web Technologies)
-- 🎯 Created a responsive portfolio website
 
 ## 📫 Contact me:
 - Email: zhasik7002@gmail.com
