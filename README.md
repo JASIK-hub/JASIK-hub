@@ -14,8 +14,6 @@ Currently learning NestJS and working on projects .
 - 💾 Git, Git flow
 - 🎨 Figma, Adobe Photoshop,Illustrator
 
-## 🏆 Achievements:
-- 🎖️ Participant of **WorldSkills Kazakhstan 2024** (Web Technologies)
 
 ## 📫 Contact me:
 - Email: zhasik7002@gmail.com
