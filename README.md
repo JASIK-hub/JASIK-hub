@@ -1,18 +1,17 @@
 # 👋 Hi, I'm Zhasulan!
 
 I'm a backend developer.  
-Currently learning NestJS and working on projects .
 
 ## 🔧 Technologies I use: 
-- 🍃 NestJs, Docker.
+- 🍃 NestJS
 
 ## 🔧 Technologies and tools I know: 
 - 🍃 NestJs, Node.js, Docker.
-- ⚛️ React
-- 🌐 HTML, CSS, SCSS, JavaScript
+- 🌐 HTML, CSS, SCSS, JavaScript, TypeScript
+- ⚛️ React, NextJs
 - 📡 REST API, JSON
 - 💾 Git, Git flow
-- 🎨 Figma, Adobe Photoshop,Illustrator
+- 🎨 Scalable architecture, simplifying code
 
 
 ## 📫 Contact me:
