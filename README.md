@@ -11,7 +11,7 @@
 
 ### Languages and Tools:
 <p align="left"> 
-  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,java,,postgres,ts,js,react,nextjs,docker,tailwind,html,css,scss,git,vscode,npm,yarn" />
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,java,postgres,ts,js,react,nextjs,docker,tailwind,html,css,scss,git,vscode,npm,yarn" />
 </p>
 
 ### Connect with me:
