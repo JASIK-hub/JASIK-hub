@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Java** and advanced **Algorithms**.
 - 💬 **NestJS, Node.js, Docker, PostgreSQL, and React**.
 - 📫 How to reach me **zhasik7002@gmail.com**.
-- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/zhassulan-abdybay-1ba352362).
+
 
 
 ### Connect with me:
