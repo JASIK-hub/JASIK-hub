@@ -3,7 +3,6 @@
 ### A backend developer from Kazakhstan 🇰🇿
 
 - 🔭 I’m currently working on **Backend Development** .
-- 🌱 I’m currently learning **Java** and advanced **Algorithms**.
 - 💬 **NestJS, Node.js, Docker, PostgreSQL, and React**.
 - 📫 How to reach me **zhasik7002@gmail.com**.
 
