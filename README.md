@@ -3,7 +3,7 @@
 ### A backend developer from Kazakhstan 🇰🇿
 
 - 🔭 I’m currently working on **Backend Development** .
-- 💬 **NestJS, Node.js, Docker, PostgreSQL, and React**.
+- 💬 **Go, NestJS**.
 - 📫 How to reach me **zhasik7002@gmail.com**.
 
 
@@ -17,7 +17,7 @@
 
 ### Languages and Tools:
 <p align="left"> 
-  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,java,postgres,ts,js,react,nextjs,docker,tailwind,html,css,scss,git,vscode,npm,yarn" />
+  <img src="https://skillicons.dev/icons?i=go,nestjs,nodejs,redis,git,postgres,postman,ts,js,react,nextjs,docker,tailwind,vscode,npm,yarn" />
 </p>
 
 
